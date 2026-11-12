@@ -20,4 +20,4 @@ Quero expandir meus projetos e participar de iniciativas ligadas a **design digi
 
 ## Contato
 - 📫 [viniciuscoliveira14@gmail.com]
-- 💼 [seu LinkedIn]
+- 💼 [https://www.linkedin.com/in/vinicius-oliveira-8a55a0402?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
