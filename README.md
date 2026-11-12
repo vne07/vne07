@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Vinicius 👋
 
-<!--
-**vne07/vne07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Design Digital na PUC Campinas**, com passagem de 3 semestres por **Engenharia de Software** na mesma instituição. Essa combinação me dá uma visão que une o lado visual e a lógica de programação na hora de construir produtos digitais.
 
-Here are some ideas to get you started:
+📍 Paulínia, SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## No que eu foco
+- 🎨 Design digital e interfaces
+- 🌐 Desenvolvimento web
+- 🐍 Python
+- 🤖 Inteligência Artificial
+
+## Formação e certificações
+- Design Digital, PUC Campinas (em andamento)
+- Engenharia de Software, PUC Campinas (3 semestres)
+- Certificados em cursos de **Python** e **Inteligência Artificial**
+
+## Procurando
+Quero expandir meus projetos e participar de iniciativas ligadas a **design digital** e **desenvolvimento web**. Se você tem uma ideia ou projeto em andamento, me chama! 🤝
+
+## Contato
+- 📫 [viniciuscoliveira14@gmail.com]
+- 💼 [seu LinkedIn]
